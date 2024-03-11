@@ -1,4 +1,18 @@
 
+@media {
+
 img {
-    width=100%;
+    width:100;
+        padding:40px;
+    border-radius: 50%;
+}
+
+h1{
+    padding: 40px;
+    font-size: 30px;
+}
+
+    @media (min-width: 576px) {h1{
+    font-size: 70px;
+}
 }
