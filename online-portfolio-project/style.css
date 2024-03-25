@@ -9,14 +9,14 @@
         padding: 40px;
         font-size: 30px;
         font-family: "Lily Script One", serif;
-     color: #487ead
+        color: #487ead;
     }
 }
 
 button {
     border-color: #487ead;
     border-width: medium;
-    background-color: aliceblue
+    background-color: aliceblue;
 }
 @media (min-width: 576px) {
     h1 {
@@ -24,15 +24,15 @@ button {
     }
 }
 
-body{
-    background-color: rgba(222, 135, 135, 0.25)
+body {
+    background-color: rgba(222, 135, 135, 0.25);
 }
 
 h2 {
     font-family: "Lily Script One", serif;
     font-weight: 400;
     font-style: normal;
-    color: #487ead
+    color: #487ead;
 }
 
 p {
@@ -48,9 +48,9 @@ div {
 }
 
 .lily-script one-regular {
-  font-family: "Lily Script One", system-ui;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Lily Script One", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .playfair-display-<paragraph-fonts > {
