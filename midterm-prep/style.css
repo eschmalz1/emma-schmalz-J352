@@ -2,7 +2,6 @@
 
 #headshot{
     width: 300px;
-    float: left;
     margin:0px 20px 0px 0px;
 }
 
@@ -33,4 +32,13 @@ body{
         width:700px;
     }
     
+    #footer {
+        position: fixed;
+        bottom: fixed;
+        
+    }
+    
+    #headshot{
+        float:left;
+    }
 }
