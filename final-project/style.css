@@ -9,6 +9,11 @@ h1 {
     text-align: center;
 }
 
+h4{
+font-family: 'courier new', courier, monospace;
+    font-weight: 500px; 
+}
+
 p {
     color: #666;
 }
@@ -16,6 +21,7 @@ p {
 img {
     width: 100%;
 }
+
 
 #content
 {
@@ -70,3 +76,13 @@ blockquote {
     font-weight: bold;
 }
 
+ .pquote3 {
+    float: left;
+    width: 200px;
+    background: url(images/openquote.gif) top left no-repeat;
+    color: #030;
+    font-size: 26px;
+    line-height: 0.9;
+    font-style: italic;
+    padding: 13px;
+}
