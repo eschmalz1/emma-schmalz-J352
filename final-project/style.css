@@ -56,33 +56,4 @@ blockquote {
     font-weight: bold;
 }
 
-    .pquote2 {
-    float: right;
-    width: 200px;
-    background: url(images/openquote.gif) top left no-repeat;
-    color: #030;
-    font-size: 26px;
-    line-height: 0.9;
-    font-style: italic;
-    padding: 13px;
-}
-
-blockquote {
-    margin: 0;
-}
-
-.pquote2 p:first-letter {
-    font-size: 39px;
-    font-weight: bold;
-}
-
- .pquote3 {
-    float: left;
-    width: 200px;
-    background: url(images/openquote.gif) top left no-repeat;
-    color: #030;
-    font-size: 26px;
-    line-height: 0.9;
-    font-style: italic;
-    padding: 13px;
-}
+   
